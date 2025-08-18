@@ -1,0 +1,35 @@
+
+#QUESTION 1
+USE salesDB;
+#to notify the server which database to use(salesDB)
+SELECT* FROM orders;
+#to retrieve data in this folder
+
+#QUESTION 2
+SELECT* 
+FROM ORDERS
+
+WHERE STATUS = 'In Process'
+
+ORDER BY ORDERDATE DESC
+
+#QUESTIOPN 3
+SELECT FIRSTNAME, LASTNAME, EMAIL, JOBTITLE
+FROM EMPLOYEES
+WHERE JOBTITLE = 'SALES REP'
+#QUESTION 4
+use salesdb;
+select*
+from offices
+ 
+ #QUESTION 5
+ #THE PRODUCT NAME IS NOT AVCAILABLE IN PRODUCTS SAMES AS QUANTITY IN STOCK
+ use SALESDB;
+SELECT productName,productScale
+FROM PRODUCTS
+ORDER BY PRODUCTSCALE ASC
+
+
+
+
+
