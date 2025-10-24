@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "customer_name": "georgia",
+    "amount": 300000.0,
+    "method": "BANK",
+    "reference": "fggfcsjdsm",
+    "payment_date": "2025-08-24T11:58:23.307762"
+  },
+  {
+    "id": 2,
+    "supplier": "GEORGIA",
+    "amount": 115000.0,
+    "method": "CASH",
+    "reference": "",
+    "payment_date": "2025-08-24T14:08:38.282308",
+    "type": "supplier_payment"
+  },
+  {
+    "id": 3,
+    "supplier": "GEORGIA",
+    "amount": 500.0,
+    "method": "CASH",
+    "reference": "",
+    "payment_date": "2025-08-24T14:08:54.592667",
+    "type": "supplier_payment"
+  }
+]

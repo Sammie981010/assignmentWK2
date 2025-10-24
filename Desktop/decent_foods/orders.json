@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "order_no": "ORD-0001",
+    "customer_name": "OYSTERBAY",
+    "items": [
+      {
+        "item": "WINGS",
+        "quantity": 10,
+        "price": 450.0,
+        "total": 4500.0
+      }
+    ],
+    "total_amount": 4500.0,
+    "order_date": "2025-08-24T12:18:43.639384",
+    "status": "Pending"
+  }
+]

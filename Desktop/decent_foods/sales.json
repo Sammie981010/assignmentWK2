@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "customer_name": "OYSTERBAY",
+    "items": [
+      {
+        "item": "WINGS",
+        "quantity": 20,
+        "price": 450.0,
+        "total": 9000.0
+      },
+      {
+        "item": "LEGS",
+        "quantity": 30,
+        "price": 380.0,
+        "total": 11400.0
+      }
+    ],
+    "total_amount": 20400.0,
+    "sale_date": "2025-08-21T14:10:50.514007"
+  },
+  {
+    "id": 2,
+    "customer_name": "soho",
+    "items": [
+      {
+        "item": "wing",
+        "quantity": 40,
+        "price": 350.0,
+        "total": 14000.0
+      }
+    ],
+    "total_amount": 14000.0,
+    "sale_date": "2025-08-21T15:39:59.048510"
+  },
+  {
+    "id": 3,
+    "invoice_no": "INV-0001",
+    "customer_name": "OYSTERBAY",
+    "items": [
+      {
+        "item": "WINGS",
+        "quantity": 10,
+        "price": 600.0,
+        "total": 6000.0
+      }
+    ],
+    "total_amount": 6000.0,
+    "sale_date": "2025-08-24T12:19:57.158602"
+  },
+  {
+    "id": 4,
+    "invoice_no": "INV-0002",
+    "customer_name": "samurai lounge",
+    "items": [
+      {
+        "item": "wings",
+        "quantity": 109,
+        "price": 400.0,
+        "total": 43600.0
+      }
+    ],
+    "total_amount": 43600.0,
+    "sale_date": "2025-08-30T03:54:23.596203"
+  },
+  {
+    "id": 5,
+    "invoice_no": "INV-0003",
+    "customer_name": "PURE-HAVENS SUPPLIES",
+    "items": [
+      {
+        "item": "WINGS",
+        "quantity": 100,
+        "price": 5000.0,
+        "total": 500000.0
+      }
+    ],
+    "total_amount": 500000.0,
+    "sale_date": "2025-08-30T04:16:40.917764"
+  },
+  {
+    "id": 6,
+    "invoice_no": "INV-0004",
+    "customer_name": "NJOROGE",
+    "items": [
+      {
+        "item": "Breast",
+        "quantity": 5,
+        "price": 500.0,
+        "total": 2500.0
+      }
+    ],
+    "total_amount": 2500.0,
+    "sale_date": "2025-08-30T04:21:18.707497"
+  },
+  {
+    "id": 7,
+    "invoice_no": "INV-0005",
+    "customer_name": "OMWAMI",
+    "items": [
+      {
+        "item": "LEGS",
+        "quantity": 10,
+        "price": 550.0,
+        "total": 5500.0
+      }
+    ],
+    "total_amount": 5500.0,
+    "sale_date": "2025-08-30T04:26:36.668748"
+  },
+  {
+    "id": 8,
+    "invoice_no": "INV-0006",
+    "customer_name": "OMOSH",
+    "items": [
+      {
+        "item": "FISH",
+        "quantity": 5,
+        "price": 800.0,
+        "total": 4000.0
+      }
+    ],
+    "total_amount": 4000.0,
+    "sale_date": "2025-08-30T04:28:49.052964"
+  },
+  {
+    "id": 9,
+    "invoice_no": "INV-0007",
+    "customer_name": "Mbugua",
+    "items": [
+      {
+        "item": "WHOLE CHICKEN",
+        "quantity": 10,
+        "price": 550.0,
+        "total": 5500.0
+      }
+    ],
+    "total_amount": 5500.0,
+    "sale_date": "2025-08-30T00:00:00"
+  },
+  {
+    "id": 10,
+    "invoice_no": "INV-0008",
+    "customer_name": "KINGSLY SERENITY",
+    "items": [
+      {
+        "item": "WHOLE CHICKEN",
+        "quantity": 20,
+        "price": 350.0,
+        "total": 7000.0
+      }
+    ],
+    "total_amount": 7000.0,
+    "sale_date": "2025-08-30T00:00:00"
+  },
+  {
+    "id": 11,
+    "invoice_no": "INV-0009",
+    "customer_name": "SERENITY",
+    "items": [
+      {
+        "item": "WOLE",
+        "quantity": 10,
+        "price": 600.0,
+        "total": 6000.0
+      }
+    ],
+    "total_amount": 6000.0,
+    "sale_date": "2025-06-30T00:00:00"
+  }
+]
